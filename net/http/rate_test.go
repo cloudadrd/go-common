@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"go-common/rate/limit"
+	"github.com/cloudadrd/go-common/rate/limit"
 )
 
 func TestLimit(t *testing.T) {

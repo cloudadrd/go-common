@@ -4,7 +4,7 @@ import (
 	"os"
 	"time"
 
-	"go-common/conf/env"
+	"github.com/cloudadrd/go-common/conf/env"
 
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"

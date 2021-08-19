@@ -5,9 +5,9 @@ import (
 	"errors"
 	"net/http"
 
-	"go-common"
-	"go-common/code"
-	"go-common/log"
+	"github.com/cloudadrd/go-common"
+	"github.com/cloudadrd/go-common/code"
+	"github.com/cloudadrd/go-common/log"
 
 	"github.com/gin-gonic/gin"
 )

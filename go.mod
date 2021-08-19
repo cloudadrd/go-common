@@ -1,4 +1,4 @@
-module go-common
+module github.com/cloudadrd/go-common
 
 go 1.14
 

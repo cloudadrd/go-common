@@ -8,8 +8,8 @@ import (
 	"strings"
 	"time"
 
-	"go-common/code"
-	"go-common/log"
+	"github.com/cloudadrd/go-common/code"
+	"github.com/cloudadrd/go-common/log"
 
 	"github.com/gin-gonic/gin"
 )

@@ -3,9 +3,9 @@ package http
 import (
 	"time"
 
-	"go-common"
-	"go-common/code"
-	"go-common/rate/limit"
+	"github.com/cloudadrd/go-common"
+	"github.com/cloudadrd/go-common/code"
+	"github.com/cloudadrd/go-common/rate/limit"
 
 	"github.com/gin-gonic/gin"
 )
